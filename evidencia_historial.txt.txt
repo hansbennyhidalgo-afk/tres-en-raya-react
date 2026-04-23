@@ -1,0 +1,20 @@
+Día 1:
+Hice el proyecto con React usando Vite en Visual Studio Code. Instalé las dependencias necesarias y verifiqué que el proyecto corriera correctamente en el navegador.
+
+Día 2:
+Desarrollé el tablero 3x3 del juego Tres en Raya. Implementé los botones y la estructura básica usando JSX. También agregué el uso de useState para manejar el estado del tablero.
+
+Día 3:
+Trabajé en la lógica de turnos entre los jugadores. Inicialmente era jugador vs jugador, alternando entre "X" y "O". Luego implementé la función para detectar el ganador revisando todas las combinaciones posibles.
+
+Día 4:
+Agregué la funcionalidad de reiniciar el juego mediante un botón. También implementé el guardado de la partida usando localStorage y el hook useEffect, para que el juego no se pierda al recargar la página.
+
+Día 5:
+Modifiqué el proyecto para incluir una inteligencia artificial básica (IA), permitiendo que el usuario juegue contra la computadora. La IA realiza movimientos aleatorios en espacios disponibles.
+
+Día 6:
+Personalicé el diseño del juego con un estilo dominicano, utilizando colores de la bandera (azul, blanco y rojo) y agregando mensajes personalizados como "¡Ganaste, eres la cabra!" o "Licey Campeon 🥳!".
+
+Día 7:
+Realicé pruebas finales, corregí pequeños errores y mejoré algunos detalles visuales. Finalmente, preparé los archivos necesarios para la entrega, incluyendo el README, captura de pantalla y este historial.
