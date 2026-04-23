@@ -103,7 +103,7 @@ function App() {
       paddingTop: "20px"
     }}>
       <h1>TRES EN UNO</h1>
-      <h2>Aguiluchos🦅 vs Licey🦁</h2>
+      <h2>Taino vs Caribe</h2>
 
       <div style={{
         display: "grid",
